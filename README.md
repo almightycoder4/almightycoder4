@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with **Competitive Programming.**
 
-- 👨‍💻 All of my projects are available at [https://pawsingh.netlify.app/](https://pawsingh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pawandev.netlify.app/](https://pawandev.netlify.app/)
 
 - 💬 Ask me about **Except Maths 😅.**
 
 - 📫 How to reach me **almightycoder4@gmail.com**
 
-- 📄 Know about my experiences [https://pawsingh.netlify.app/](https://pawsingh.netlify.app/)
+- 📄 Know about my experiences [https://pawandev.netlify.app/](https://pawandev.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
