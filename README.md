@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://pawandev.netlify.app/](https://pawandev.netlify.app/)
 
-- 💬 Ask me about **Except Maths 😅.**
-
 - 📫 How to reach me **almightycoder4@gmail.com**
 
 - 📄 Know about my experiences [https://pawandev.netlify.app/](https://pawandev.netlify.app/)
